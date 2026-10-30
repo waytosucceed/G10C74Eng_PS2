@@ -1,0 +1,19 @@
+{
+  "heading": "Homework_writing",
+  "topics": [
+    {
+      "heading": "Writing Activity",
+      "questions": [
+       
+        {
+          "questionNo": 1,
+          "type":"long",
+          "question": "<b>Summarise what Dorothy and William saw and did on their walk.</b><br>Write your summary in your own words. Your summary should be no more than 200 words.",
+          "text_area": "",
+          "answer": [""]
+        }
+         
+      ]
+    }
+  ]
+}
